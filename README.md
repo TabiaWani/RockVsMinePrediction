@@ -29,7 +29,7 @@ rock-vs-mine/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/rock-vs-mine-prediction.git
+git clone https://github.com/TabiaWani/RockVsMinePrediction/blob/master/RockVsMinePrediction.ipynb
 cd rock-vs-mine-prediction
 
 Install required libraries:
@@ -40,18 +40,19 @@ jupyter notebook
 
 Open rock_vs_mine_prediction.ipynb and run all cells.
 
-**🧠 Workflow Overview**
+ ##**🧠 Workflow Overview**
 Load and explore dataset
 Preprocess data (label encoding)
 Split into training and testing sets
 Train a Logistic Regression model
 Evaluate with accuracy score
 
-✅ Sample Output
+##✅ Sample Output
 Model Accuracy: 87.3%
 (Accuracy may vary depending on data split.)
 
-📌 Future Enhancements
+
+##📌 Future Enhancements
 Try other classification models (SVM, RandomForest, etc.)
 Add visualizations (confusion matrix, ROC curve)
 Implement feature scaling and cross-validation
