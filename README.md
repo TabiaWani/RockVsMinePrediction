@@ -47,12 +47,12 @@ Split into training and testing sets
 Train a Logistic Regression model
 Evaluate with accuracy score
 
-##✅ Sample Output
+## ✅ Sample Output
 Model Accuracy: 87.3%
 (Accuracy may vary depending on data split.)
 
 
-##📌 Future Enhancements
+## 📌 Future Enhancements
 Try other classification models (SVM, RandomForest, etc.)
 Add visualizations (confusion matrix, ROC curve)
 Implement feature scaling and cross-validation
