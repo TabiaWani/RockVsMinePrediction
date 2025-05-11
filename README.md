@@ -40,7 +40,7 @@ jupyter notebook
 
 Open rock_vs_mine_prediction.ipynb and run all cells.
 
- ##**🧠 Workflow Overview**
+ ## 🧠 Workflow Overview
 Load and explore dataset
 Preprocess data (label encoding)
 Split into training and testing sets
